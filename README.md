@@ -20,6 +20,5 @@ Take a look at my website
 ## För att starta min sida lokalt följ instruktionerna:
 
 Ta fram terminalen och skriv:
-npm install
-npm run dev
-
+. npm install
+. npm run dev
