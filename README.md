@@ -1,24 +1,23 @@
 # Nagham Alsuhaili Portfolio
-
 ### React Portfolio!
 
 ## Features
+. Responsive
 
-Responsive
 
 ## 🚀 About Me
-
-My name is Nagham and I'm currently studying UX/UI design with a focus on frontend development.
+Mitt namn är Nagham Alsuhaili och jag studerar UX/UI design med frontendkompetens.
 
 ## 🛠 Skills
-
 React, Javascript, HTML, CSS, Figma.
 
-Take a look at my website
-[Länk till den publicerade sidan](https://naghamal.surge.sh/)
+Besök gärna min hemsida
+[Länk till den publicerade sidan](https://naghamal.surge.sh/) 
 
-## För att starta min sida lokalt följ instruktionerna:
+För att starta min sida lokalt följ instruktionerna.
+Ta fram terminalen och skriv:
 
-### Ta fram terminalen och skriv:
-##### npm install
-##### npm run dev
+```sh
+npm install 
+npm run dev 
+```
